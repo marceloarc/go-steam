@@ -5,8 +5,8 @@ package steamlang
 
 import (
 	"encoding/binary"
-	. "github.com/paralin/go-steam/protocol/protobuf"
-	"github.com/paralin/go-steam/rwu"
+	. "github.com/marceloarc/go-steam/protocol/protobuf"
+	"github.com/marceloarc/go-steam/rwu"
 	"github.com/golang/protobuf/proto"
 	"io"
 )

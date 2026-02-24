@@ -5,10 +5,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/paralin/go-steam/protocol"
-	. "github.com/paralin/go-steam/protocol/protobuf"
-	. "github.com/paralin/go-steam/protocol/steamlang"
-	"github.com/paralin/go-steam/steamid"
+	. "github.com/marceloarc/go-steam/protocol"
+	. "github.com/marceloarc/go-steam/protocol/protobuf"
+	. "github.com/marceloarc/go-steam/protocol/steamlang"
+	"github.com/marceloarc/go-steam/steamid"
 	"github.com/golang/protobuf/proto"
 )
 

@@ -2,9 +2,9 @@ package gamecoordinator
 
 import (
 	"bytes"
-	. "github.com/paralin/go-steam/protocol"
-	. "github.com/paralin/go-steam/protocol/protobuf"
-	. "github.com/paralin/go-steam/protocol/steamlang"
+	. "github.com/marceloarc/go-steam/protocol"
+	. "github.com/marceloarc/go-steam/protocol/protobuf"
+	. "github.com/marceloarc/go-steam/protocol/steamlang"
 	"github.com/golang/protobuf/proto"
 )
 
